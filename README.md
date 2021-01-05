@@ -8,3 +8,5 @@ Here is the solution for a 1d wave with c=1 and a rect as initial condition. The
 
 ![1d_wave](1d_wave.png)
 
+The file wave_pde are the weights of the 2D version of the problem if you want to try it out!
+
